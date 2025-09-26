@@ -8,4 +8,4 @@
 >
 ## 기능 요구사항
 - FastAPI, Database(postrgres or sqlites), HTML or TS : Input data(교과목 시수)와 조건식을 받아 Output data(요일별 교과목 강의실 배정)
-- Gemini LLM (Python SDK) : 배정되 ㄴ결과에 대한 조건식 수정 및 조회, Dashboard 등 prompt
+- Gemini LLM (Python SDK) : 배정된 결과에 대한 조건식 수정 및 조회, Dashboard 등 prompt
